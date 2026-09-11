@@ -808,7 +808,7 @@ Quick Response We ensure quick response to your call. One’s you sent your need
 } elseif (strtolower($city) == "zirakpur") {
    $htmlcontent = " 
    <h2>Allcity packers and movers in Zirakpur</h2>
-   <p><b><a class='https://allcitymoverspackers.com/zirakpur-packers-movers-punjab' class='text-decoration-none'>Packers and movers in Zirakpur</a></b> work in a gateway town that's grown fast, linking the Tricity belt of Chandigarh, Panchkula, and Mohali. Major arteries carry the bulk of its residential and commercial traffic - the PR7 Airport Ring Road, the Chandigarh-Ambala Highway (NH-152), the Zirakpur-Panchkula Highway (NH-7), and VIP Road all cut through it. Along VIP Road, Nagla Road, and Highland Marg sit the high-rise hubs - Maya Garden, Sushma Square, Savitry Towers, Motia Royal City - and a move into any of them means service lift reservations, RWA move-in time approvals, and basement truck clearance checks before anything gets loaded. Older established pockets like Baltana, Dhakoli, and Gazipur, meanwhile, feature narrow residential lanes that can't take a full-sized container truck, so compact shuttle tempos handle the doorstep pickups instead. Heavy traffic bottlenecks around the Zirakpur Flyover and the main highway junctions add strict timing constraints to every move. At <b><a href='https://allcitymoverspackers.com'>All City Movers and Packers</a></b>, our team manages local household shifting starting from <strong>₹3,500</strong>, corporate relocations, and vehicle transportation designed specifically around Zirakpur's traffic patterns and building regulations. Our operational setup covers Zirakpur and the surrounding Tricity region. From local home moves to intercity shifting across India, we at <strong>All City Movers and Packers</strong> provide structured home shifting, office relocation, secure warehousing, and vehicle transit services.</p>
+   <p><b><a href='https://allcitymoverspackers.com/zirakpur-packers-movers-punjab' class='text-decoration-none'>Packers and movers in Zirakpur</a></b> work in a gateway town that's grown fast, linking the Tricity belt of Chandigarh, Panchkula, and Mohali. Major arteries carry the bulk of its residential and commercial traffic - the PR7 Airport Ring Road, the Chandigarh-Ambala Highway (NH-152), the Zirakpur-Panchkula Highway (NH-7), and VIP Road all cut through it. Along VIP Road, Nagla Road, and Highland Marg sit the high-rise hubs - Maya Garden, Sushma Square, Savitry Towers, Motia Royal City - and a move into any of them means service lift reservations, RWA move-in time approvals, and basement truck clearance checks before anything gets loaded. Older established pockets like Baltana, Dhakoli, and Gazipur, meanwhile, feature narrow residential lanes that can't take a full-sized container truck, so compact shuttle tempos handle the doorstep pickups instead. Heavy traffic bottlenecks around the Zirakpur Flyover and the main highway junctions add strict timing constraints to every move. At <b><a href='https://allcitymoverspackers.com'>All City Movers and Packers</a></b>, our team manages local household shifting starting from <strong>₹3,500</strong>, corporate relocations, and vehicle transportation designed specifically around Zirakpur's traffic patterns and building regulations. Our operational setup covers Zirakpur and the surrounding Tricity region. From local home moves to intercity shifting across India, we at <strong>All City Movers and Packers</strong> provide structured home shifting, office relocation, secure warehousing, and vehicle transit services.</p>
 
    <p>Moving a walk-up home in Baltana requires a completely different approach than shifting a high-rise apartment on VIP Road, and relocating a commercial setup near the PR7 Airport Road junction comes with its own scheduling demands. RWA permissions, service lift bookings, tight lane transfers, and highway toll clearances all influence the move timeline. Multi-layer protective packing, dedicated move supervisors, real-time tracking, and routes planned around Zirakpur's peak congestion hours - that's what keeps every project on schedule. <b>Call or WhatsApp +91 9876392657 for a free quote</b>. </p>
    ";
@@ -857,22 +857,20 @@ Quick Response We ensure quick response to your call. One’s you sent your need
 <h3>Zirakpur to Ahmedabad</h3>
 <p>Pre-cleared interstate paperwork and GST billing to prevent highway inspection holds.</p>
 ";
-   $htmlcontent02 = "";
+   
 $htmlcontent03 = "
 <h3>Local Moving Experience in Zirakpur</h3>
-<ol><li>Monsoon and Seasonal Planning</li>
-<p>Zirakpur's fast growth means construction zones pop up across the town without much warning, and a sudden monsoon shower can turn an unpaved stretch near a new society into a mess within minutes. Humid summers bring their own concern - electronics and wooden furniture need extra protection against moisture buildup during loading and transit, not just against rain itself. We factor all of this into scheduling, choosing packing materials, and route planning, rather than treating it as a surprise every time the weather shifts.</p>
-<li>VIP Road and High-Rise Society Elevator Logistics<li>
-<p>High-rise complexes along VIP Road and Highland Marg require advance RWA permissions, designated elevator slot reservations, protective elevator padding, and basement height verifications before unloading.</p>
-<li>Baltana and Dhakoli Narrow-Lane Operations<li>
-<p>Tight inner streets in older residential belts like Baltana and Dhakoli can't accommodate large multi-axle container trucks. We deploy compact shuttle tempos to collect goods straight from your doorstep and transfer them to primary carriers parked on broader main roads.</p>
-<li>PR7 Airport Ring Road Corridor<li>
-<p>The high-speed PR7 Expressway connects Zirakpur directly to Mohali and the international airport, making proper internal cargo strapping and weight balance crucial for smooth highway travel.</p>
-<li>Tricity Border Transit<li>
-<p>Moving between Zirakpur (Punjab), Panchkula (Haryana), and Chandigarh involves cross-border municipal routes. We handle state entry clearances and documentation in advance to prevent transit delays.</p>
-<li>Zirakpur Flyover Traffic Management<li></ol>
-<p>Heavy traffic at the Ambala-Chandigarh highway junction can stall movement during peak hours. Our teams schedule tran
+<ol><li><span class='fw-bold'>Monsoon and Seasonal Planning</span>: Zirakpur's fast growth means construction zones pop up across the town without much warning, and a sudden monsoon shower can turn an unpaved stretch near a new society into a mess within minutes. Humid summers bring their own concern - electronics and wooden furniture need extra protection against moisture buildup during loading and transit, not just against rain itself. We factor all of this into scheduling, choosing packing materials, and route planning, rather than treating it as a surprise every time the weather shifts.</li>
 
+<li><span class='fw-bold'>VIP Road and High-Rise Society Elevator Logistics</span>: High-rise complexes along VIP Road and Highland Marg require advance RWA permissions, designated elevator slot reservations, protective elevator padding, and basement height verifications before unloading.</li>
+
+<li><span class='fw-bold'>Baltana and Dhakoli Narrow-Lane Operations</span>: Tight inner streets in older residential belts like Baltana and Dhakoli can't accommodate large multi-axle container trucks. We deploy compact shuttle tempos to collect goods straight from your doorstep and transfer them to primary carriers parked on broader main roads.</li>
+
+<li><span class='fw-bold'>PR7 Airport Ring Road Corridor</span>: The high-speed PR7 Expressway connects Zirakpur directly to Mohali and the international airport, making proper internal cargo strapping and weight balance crucial for smooth highway travel.</li>
+
+<li><span class='fw-bold'>Tricity Border Transit</span>: Moving between Zirakpur (Punjab), Panchkula (Haryana), and Chandigarh involves cross-border municipal routes. We handle state entry clearances and documentation in advance to prevent transit delays.</li>
+
+<li><span class='fw-bold'>Zirakpur Flyover Traffic Management</span>: Heavy traffic at the Ambala-Chandigarh highway junction can stall movement during peak hours. Our teams schedule transit windows outside peak morning and evening rushes to keep relocations on track.</li></ol>
 ";
    $htmlcontent3 = "
   <h3>A Recent Move</h3>
@@ -883,36 +881,7 @@ $htmlcontent03 = "
 <p>Office relocation near Baltana. They handled computers and furniture carefully. Work resumed the next day without delay. - Amit Sharma, Bank Manager</p>
 <p>Within-society shifting in Zirakpur - quick, smooth, no hassle. Highly recommended local packers and movers. - Pooja Singh, Advocate</p>
 ";
-   $htmlcontent4 = "<h5>Security Measures Followed by Local Packers and Movers </h5>
-<p>Security is a priority for our <b>local packers and movers</b> at every stage, bulky goods are lifted with 
-fragile goods, proper equipment are double-wrapped, and loading is done carefully, during transport, goods are 
-secured tightly to avoid relocation. You might be wondering about damage risks, that’s fair. Our <b>relocation 
-specialists</b> also offer insurance coverage for extra peace of mind.</p>
-<h5>Storage and Warehouse Options by Moving Company</h5>
-<p>Sometimes your new home isn’t ready yet. It happens often in developing areas. In such cases, our
- <b>moving company </b> provides secure storage options. Your belongings are kept safe in clean, protected 
- spaces. So if you’re searching for <b>Packers and Movers Near Me </b> with storage support, we’ve got you 
- covered.</p>
- <span class='fs-2 fw-bold'>Real Customer Stories About Our Moving Company</span>
-<p>Our reputation as a reliable moving company comes from real customer experiences:</p>
-<ul>
-  <li>Shifted from VIP Road to Panchkula in September. The team packed everything carefully and 
-      completed the move in 6 hours. Very professional service.<span>
-    - Rakesh Verma</span>
-  </li>
-  <li>
-    Office relocation near Baltana. They handled computers and furniture carefully.Work resumed the next 
-    day without delay.
-    <span>- Amit Sharma</span>
-  </li>
-  <li>
-    Within society shifting in Zirakpur, quick, smooth, no hassle. Highly recommended local 
-    packers and movers.
-    <span>- Pooja Singh</span>
-  </li>
-</ul>
-
-<h4>Book All City Movers and Packers in Zirakpur<h4>
+   $htmlcontent4 = "<h4>Book All City Movers and Packers in Zirakpur<h4>
 <p>Need a hand with the shift? Call or WhatsApp <b>+91 9876392657</b> for a fast, accurate quote - pricing starts from <b>₹3,500</b> and stays transparent, packaging is multi-layer and handled by professionals, and hidden costs don't come into it. </p>
 
   ";
@@ -999,6 +968,7 @@ specialists</b> also offer insurance coverage for extra peace of mind.</p>
     </div>
   </div>
 </section>";
+
 } else {
    $htmlcontent = "
    <h2>Packers and Movers in $city</h2>
