@@ -1,0 +1,277 @@
+@import "https://fonts.googleapis.com/css?family=Lato:100italic,100,300italic,300,400italic,400,700italic,700,900italic,900";
+@import "hoe.css";
+@import "custom.css";
+@import "animate.css";
+@import "../editor/summernote.css";
+@import "../datepicker/datepicker.css";
+@import "../font-awesome/css/font-awesome.min.css";
+
+/* Consolidated internal CSS from admin PHP views */
+/* Source: admin/modules/app/views/footer.php */
+.modal{
+	    background: rgba(14, 14, 14, 0.81);
+	}
+
+/* Source: admin/modules/app/views/header.php */
+@media print {
+      aside,header, .col-lg-12, .myhead, hr{
+        display:none !important;
+      }
+      #printarea{
+        margin-top:-30px;
+        margin-left:-230px;
+      }
+
+    }
+
+/* Source: admin/modules/app/views/navigation.php */
+.panel-list li ul li {
+	padding: 5px 20px 5px 20px;
+}
+
+/* Source: admin/modules/branches/views/form.php */
+.form-check{
+	display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px double #fff;
+    border-radius: 4px;
+}
+
+/* Source: admin/modules/city/views/form.php */
+.form-check{
+	display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px double #fff;
+    border-radius: 4px;
+}
+
+/* Source: admin/modules/contact/views/booking.php */
+.cards{background-image: linear-gradient(120deg, #fdfbfb 0%, #d2f0ff 100%);margin:5px 0px;padding:5px auto;
+    box-shadow: 1px 2px 8px 0px #dbdbdb;}
+    .cards h5{line-height: 1px;}
+   .cards b{color: #9c7e04}
+   .cards h5 b{color: #0082ad}
+   .cards q{font-weight:bold}
+   .cards h5 strong{color: #00a200}
+   #hoeapp-wrapper {background: #ffffff;}
+
+/* Source: admin/modules/dashboard/views/view.php */
+.column{
+    cursor:pointer;
+}
+
+/* Source: admin/modules/offers/views/form.php */
+input[type='radio'] {
+    -webkit-appearance: none;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    outline: none;
+    border: 3px solid gray;
+}
+input[type='radio']:before {
+    content: '';
+    display: block;
+    width: 60%;
+    height: 60%;
+    margin: 20% auto;
+    border-radius: 50%;
+}
+input[type="radio"]:checked:before {
+    background: #5bc0de;
+
+}
+input[type="radio"]:checked {
+    border-color:#5bc0de;
+}
+.parent {
+    margin-right: 80px;
+    margin-left: 20px;
+    font-weight: normal;
+}
+.radio-gap{
+    position:relative;
+    left:3%!important;
+}
+
+/* Source: admin/modules/ship_main/views/form.php */
+.form-check{
+	display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px double #fff;
+    border-radius: 4px;
+}
+
+/* Source: admin/modules/ship_tracking/views/form.php */
+.form-check {
+		display: block;
+		width: 100%;
+		height: 34px;
+		padding: 6px 12px;
+		font-size: 14px;
+		line-height: 1.42857143;
+		color: #555;
+		background-color: #fff;
+		background-image: none;
+		border: 1px double #fff;
+		border-radius: 4px;
+	}
+
+/* Consolidated inline CSS from admin PHP views */
+.adm-inline-001 { display: none !important; }
+.adm-inline-002 { display:inline-block !important; height: 45px !important; }
+.adm-inline-003 { tex-align:justify !important; }
+.adm-inline-004 { height: 50px !important; overflow: scroll !important; }
+.adm-inline-005 { text-decoration: none !important; }
+.adm-inline-006 { color: #06f !important; }
+.adm-inline-007 { box-shadow:none !important; -webkit-box-shadow:none !important; }
+.adm-inline-008 { width:85px !important; }
+.adm-inline-009 { height: 50px !important; }
+.adm-inline-010 { width: 20px !important; height: 20px !important; border: 0px !important; shadow: none !important; }
+.adm-inline-011 { font-size: 12px !important; }
+.adm-inline-012 { height: 150px !important; }
+.adm-inline-013 { height:25px !important; width:25px !important; border-radius:50% !important; background:red !important; }
+.adm-inline-014 { height:25px !important; width:25px !important; border-radius:50% !important; background:green !important; }
+.adm-inline-015 { color:red !important; }
+.adm-inline-016 { display: none !important; }
+.adm-inline-017 { color: brown !important; }
+.adm-inline-018 { cursor:pointer !important; }
+.adm-inline-019 { font-size:10px !important; }
+.adm-inline-020 { height:240px !important; }
+.adm-inline-021 { height:180px !important; }
+.adm-inline-022 { width:90% !important; }
+.adm-inline-023 { padding: 10px 10px 20px 10px !important; }
+.adm-inline-024 { width:150px !important; }
+.adm-inline-025 { color:black !important; }
+.adm-inline-026 { width:100px !important; }
+.adm-inline-027 { background-color: #f0f0f5 !important; }
+.adm-inline-028 { font-family: arial !important; font-weight: 700 !important; color: rgb(74, 95, 98) !important; outline: 0px !important; margin-right: 0px !important; margin-left: 0px !important; clear: both !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; padding: 0px !important; vertical-align: baseline !important; text-align: center !important; margin-top: 30px !important; font-size: 21px !important; }
+.adm-inline-029 { outline: 0px !important; margin-right: 0px !important; margin-left: 0px !important; color: rgb(74, 95, 98) !important; clear: both !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-family: arial !important; padding: 0px !important; vertical-align: baseline !important; text-align: center !important; margin-top: 30px !important; font-size: 21px !important; }
+.adm-inline-030 { text-align: start !important; outline: 0px !important; -webkit-appearance: none !important; border-radius: 0px !important; border-width: 0px 0px 6px !important; border-top-style: initial !important; border-right-style: initial !important; border-bottom-style: solid !important; border-left-style: initial !important; border-top-color: initial !important; border-right-color: initial !important; border-bottom-color: rgb(0, 173, 239) !important; border-left-color: initial !important; border-image: initial !important; font-size: 14px !important; margin: auto auto 20px !important; padding: 5px 0px 0px !important; vertical-align: baseline !important; width: 64.4375px !important; color: rgb(51, 51, 51) !important; }
+.adm-inline-031 { font-size: 14px !important; }
+.adm-inline-032 { outline: 0px !important; margin-right: 0px !important; margin-left: 0px !important; color: rgb(74, 95, 98) !important; clear: both !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-family: arial !important; font-weight: 700 !important; padding: 0px !important; vertical-align: baseline !important; text-align: center !important; margin-top: 30px !important; font-size: 21px !important; }
+.adm-inline-033 { outline: 0px !important; -webkit-appearance: none !important; border-radius: 0px !important; border-width: 0px 0px 6px !important; border-top-style: initial !important; border-right-style: initial !important; border-bottom-style: solid !important; border-left-style: initial !important; border-top-color: initial !important; border-right-color: initial !important; border-bottom-color: rgb(0, 173, 239) !important; border-left-color: initial !important; border-image: initial !important; font-family: arial !important; font-size: 14px !important; margin: auto auto 20px !important; padding: 5px 0px 0px !important; vertical-align: baseline !important; width: 64.4375px !important; color: rgb(51, 51, 51) !important; }
+.adm-inline-034 { outline: 0px !important; color: rgb(34, 34, 34) !important; line-height: 24px !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-family: arial !important; padding: 0px !important; vertical-align: baseline !important; margin-block-start: 0px !important; margin-block-end: 0px !important; }
+.adm-inline-035 { outline: 0px !important; color: rgb(119, 119, 119) !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-style: inherit !important; font-weight: inherit !important; margin: 0px !important; padding: 0px !important; vertical-align: baseline !important; transition-duration: 0.3s !important; }
+.adm-inline-036 { outline: 0px !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-family: arial !important; font-size: 14px !important; margin-right: 0px !important; margin-left: 0px !important; padding: 0px !important; vertical-align: baseline !important; list-style-position: initial !important; list-style-image: initial !important; color: rgb(51, 51, 51) !important; }
+.adm-inline-037 { outline: 0px !important; line-height: 24px !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-style: inherit !important; font-weight: inherit !important; margin: 0px !important; padding: 0px !important; vertical-align: baseline !important; list-style: none !important; font-size: 13px !important; }
+.adm-inline-038 { outline: 0px !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-style: inherit !important; font-weight: 700 !important; margin: 0px !important; padding: 0px !important; vertical-align: baseline !important; }
+.adm-inline-039 { outline: 0px !important; font-size: 13px !important; color: rgb(34, 34, 34) !important; line-height: 24px !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-style: inherit !important; font-weight: inherit !important; padding: 0px !important; vertical-align: baseline !important; margin-block-start: 0px !important; margin-block-end: 0px !important; }
+.adm-inline-040 { outline: 0px !important; clear: both !important; -webkit-appearance: none !important; border-radius: 0px !important; border: 0px !important; font-family: arial !important; font-size: 20px !important; margin-right: 0px !important; margin-left: 0px !important; padding: 0px !important; vertical-align: baseline !important; text-align: center !important; margin-top: 30px !important; }
+.adm-inline-041 { margin: 0px -15px !important; padding: 0px !important; border: 0px !important; font-variant-numeric: inherit !important; font-variant-east-asian: inherit !important; font-stretch: inherit !important; font-size: 15px !important; line-height: inherit !important; font-family: &amp !important; vertical-align: baseline !important; color: rgb(54, 54, 54) !important; }
+.adm-inline-042 { margin: 0px !important; padding: 0px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; width: 736.953px !important; position: relative !important; min-height: 1px !important; float: left !important; }
+.adm-inline-043 { margin: 0px !important; padding: 0px 15px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; width: 736.953px !important; }
+.adm-inline-044 { margin: 0px !important; padding: 0px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; }
+.adm-inline-045 { margin: 0px 0px 35px !important; padding: 0px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; }
+.adm-inline-046 { margin: 0px 0px 15px !important; padding: 0px !important; border: 0px !important; font-style: inherit !important; font-variant: inherit !important; font-weight: 600 !important; font-stretch: inherit !important; font-size: 20px !important; line-height: 28px !important; font-family: &amp !important; vertical-align: baseline !important; color: rgb(38, 38, 38) !important; letter-spacing: 0px !important; }
+.adm-inline-047 { padding: 0px !important; border: 0px !important; font-style: inherit !important; font-variant: inherit !important; font-weight: inherit !important; font-stretch: inherit !important; font-size: inherit !important; line-height: 1.5em !important; vertical-align: baseline !important; }
+.adm-inline-048 { margin: 0px !important; padding: 0px !important; border: 0px !important; font-style: inherit !important; font-variant: inherit !important; font-stretch: inherit !important; font-size: inherit !important; line-height: inherit !important; font-family: inherit !important; vertical-align: baseline !important; }
+.adm-inline-049 { border-style: initial !important; border-color: initial !important; border-image: initial !important; font-style: inherit !important; font-variant: inherit !important; font-weight: inherit !important; font-stretch: inherit !important; line-height: inherit !important; outline-color: initial !important; outline-style: initial !important; }
+.adm-inline-050 { margin-bottom: 0px !important; padding: 0px !important; border: 0px !important; font-style: inherit !important; font-variant: inherit !important; font-weight: inherit !important; font-stretch: inherit !important; font-size: inherit !important; line-height: 1.5em !important; vertical-align: baseline !important; }
+.adm-inline-051 { margin: 0px auto !important; padding: 0px !important; font: inherit !important; text-align: center !important; display: block !important; max-width: 100% !important; height: auto !important; margin-left: 34% !important; }
+.adm-inline-052 { margin-right: 0px !important; margin-bottom: 15px !important; margin-left: 30px !important; padding: 0px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; list-style: square outside !important; }
+.adm-inline-053 { margin: 0px !important; padding: 0px !important; border: 0px !important; font: inherit !important; vertical-align: baseline !important; text-align: left !important; }
+.adm-inline-054 { text-align: left !important; margin: 0px 0px 15px !important; padding: 0px !important; border: 0px !important; font-style: inherit !important; font-variant: inherit !important; font-weight: 600 !important; font-stretch: inherit !important; font-size: 20px !important; line-height: 28px !important; font-family: &amp !important; vertical-align: baseline !important; color: rgb(38, 38, 38) !important; letter-spacing: 0px !important; }
+.adm-inline-055 { width:100px !important; }
+.adm-inline-056 { width:100px !important; height:100px !important; }
+
+/* Scoped CodeIgniter admin welcome/error template CSS */
+.adm-ci-page::selection,
+.adm-ci-page ::selection {
+    background-color: #E13300;
+    color: white;
+}
+
+.adm-ci-page::-moz-selection,
+.adm-ci-page ::-moz-selection {
+    background-color: #E13300;
+    color: white;
+}
+
+.adm-ci-page {
+    background-color: #fff;
+    margin: 40px;
+    font: 13px/20px normal Helvetica, Arial, sans-serif;
+    color: #4F5155;
+}
+
+.adm-ci-page a {
+    color: #003399;
+    background-color: transparent;
+    font-weight: normal;
+}
+
+.adm-ci-page h1 {
+    color: #444;
+    background-color: transparent;
+    border-bottom: 1px solid #D0D0D0;
+    font-size: 19px;
+    font-weight: normal;
+    margin: 0 0 14px 0;
+    padding: 14px 15px 10px 15px;
+}
+
+.adm-ci-page code {
+    font-family: Consolas, Monaco, Courier New, Courier, monospace;
+    font-size: 12px;
+    background-color: #f9f9f9;
+    border: 1px solid #D0D0D0;
+    color: #002166;
+    display: block;
+    margin: 14px 0 14px 0;
+    padding: 12px 10px 12px 10px;
+}
+
+.adm-ci-body {
+    margin: 0 15px 0 15px;
+}
+
+.adm-ci-footer {
+    text-align: right;
+    font-size: 11px;
+    border-top: 1px solid #D0D0D0;
+    line-height: 32px;
+    padding: 0 10px 0 10px;
+    margin: 20px 0 0 0;
+}
+
+.adm-ci-container {
+    margin: 10px;
+    border: 1px solid #D0D0D0;
+    box-shadow: 0 0 8px #D0D0D0;
+}
+
+.adm-ci-page p {
+    margin: 12px 15px 12px 15px;
+}
+
+.adm-ci-detail {
+    border: 1px solid #990000;
+    padding-left: 20px;
+    margin: 0 0 10px 0;
+}
+
+.adm-ci-backtrace {
+    margin-left: 10px;
+}

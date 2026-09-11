@@ -1,0 +1,4 @@
+user-agent: *
+disallow: /error/
+
+sitemap: https://allcitymoverspackers.com//sitemap.xml

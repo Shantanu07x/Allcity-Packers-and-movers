@@ -1,0 +1,65 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+$route['default_controller'] = 'home';
+$route['404_override'] = 'home/error';
+$route['search'] = 'home/search';
+$route["photo-gallery"]="gallery/photo_gallery";
+$route["video-gallery"]="gallery/video_gallery";
+$route["(:any).htm"]="home/error";
+$route["infrastructure"]="about/infrastructure";
+$route["about"]="about/about";
+$route["why-choose-us"]="about/choose";
+$route["iba-approved"]="about/iba";
+$route["testimonials"]="about/testimonials"; 
+$route["terms-and-conditions"]="about/terms"; 
+$route["cookies-policy"]="about/cookies"; 
+$route["privacy-policy"]="about/privacy"; 
+$route["disclaimer"]="about/disclaimer"; 
+
+
+
+$route["blog"]="blog/view";
+$route["reviews"]="reviews/reviews";
+$route["home-relocation"]="services/house";
+$route["office-shifting"]="services/office";
+$route["vehicle-shifting"]="services/vehicle";
+$route["logistic-service"]="services/logistic";
+$route["packing-unpacking"]="services/packing";
+$route["local-service"]="services/local";
+$route["storage-service"]="services/storage"; 
+$route["cargo-service"]="services/cargo";
+$route["transportation-service"]="services/transportation";
+$route["our-branches"]="packers_movers/state";
+$route["contacts"]="contacts/contacts";
+$route["packers-movers-(:any)-india"]="packers_movers/state_services/$1";
+$route["(:any)-packers-movers-(:any)"]="packers_movers/city/$2/$1";
+$route["bihar"]="packers_movers/state_services/bihar";
+$route["maharashtra"]="packers_movers/state_services/maharashtra";
+$route["delhi"]="packers_movers/state_services/delhi";
+$route["uttar-pradesh"]="packers_movers/state_services/uttar-pradesh";
+$route["jharkhand"]="packers_movers/state_services/jharkhand";
+$route["west-bengal"]="packers_movers/state_services/west-bengal";
+$route["haryana"]="packers_movers/state_services/haryana";
+$route["chhattisgarh"]="packers_movers/state_services/chhattisgarh";
+$route["madhya-pradesh"]="packers_movers/state_services/madhya-pradesh";
+$route["gujarat"]="packers_movers/state_services/gujarat";
+$route["jammu-and-kashmir"]="packers_movers/state_services/jammu-and-kashmir";
+$route["tamil-nadu"]="packers_movers/state_services/tamil-nadu";
+$route["telangana"]="packers_movers/state_services/telangana";
+$route["rajasthan"]="packers_movers/state_services/rajasthan";
+$route["karnataka"]="packers_movers/state_services/karnataka";
+$route["himachal-pradesh"]="packers_movers/state_services/himachal-pradesh";
+$route["uttarakhand"]="packers_movers/state_services/uttarakhand";
+$route["assam"]="packers_movers/state_services/assam";
+$route["goa"]="packers_movers/state_services/goa";
+$route["punjab"]="packers_movers/state_services/punjab";
+
+$route["home-shifting-in-(:any)"]="city_services/home_shiftings/$1";
+$route["office-shifting-in-(:any)"]="city_services/office_shiftings/$1";
+$route["car-transport-in-(:any)"]="city_services/car_transport/$1";
+$route["iba-approved-packers-in-(:any)"]="city_services/iba/$1";
+
+$route["packers-movers-(:any)-to-(:any)"] = "packers_movers/from_to/$1/$2";
+
+
+$route['translate_uri_dashes'] = TRUE;
