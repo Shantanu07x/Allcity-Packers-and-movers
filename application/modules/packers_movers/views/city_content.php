@@ -808,7 +808,7 @@ Quick Response We ensure quick response to your call. One’s you sent your need
 } elseif (strtolower($city) == "zirakpur") {
    $htmlcontent = " 
    <h2>Allcity packers and movers in Zirakpur</h2>
-   <p><b>Packers and movers in Zirakpur</b> work in a gateway town that's grown fast, linking the Tricity belt of Chandigarh, Panchkula, and Mohali. Major arteries carry the bulk of its residential and commercial traffic - the PR7 Airport Ring Road, the Chandigarh-Ambala Highway (NH-152), the Zirakpur-Panchkula Highway (NH-7), and VIP Road all cut through it. Along VIP Road, Nagla Road, and Highland Marg sit the high-rise hubs - Maya Garden, Sushma Square, Savitry Towers, Motia Royal City - and a move into any of them means service lift reservations, RWA move-in time approvals, and basement truck clearance checks before anything gets loaded. Older established pockets like Baltana, Dhakoli, and Gazipur, meanwhile, feature narrow residential lanes that can't take a full-sized container truck, so compact shuttle tempos handle the doorstep pickups instead. Heavy traffic bottlenecks around the Zirakpur Flyover and the main highway junctions add strict timing constraints to every move. At <b>All City Movers and Packers</b>, our team manages local household shifting starting from <strong>₹3,500</strong>, corporate relocations, and vehicle transportation designed specifically around Zirakpur's traffic patterns and building regulations. Our operational setup covers Zirakpur and the surrounding Tricity region. From local home moves to intercity shifting across India, we at <strong>All City Movers and Packers</strong> provide structured home shifting, office relocation, secure warehousing, and vehicle transit services.</p>
+   <p><b><a class='https://allcitymoverspackers.com/zirakpur-packers-movers-punjab' class='text-decoration-none'>Packers and movers in Zirakpur</a></b> work in a gateway town that's grown fast, linking the Tricity belt of Chandigarh, Panchkula, and Mohali. Major arteries carry the bulk of its residential and commercial traffic - the PR7 Airport Ring Road, the Chandigarh-Ambala Highway (NH-152), the Zirakpur-Panchkula Highway (NH-7), and VIP Road all cut through it. Along VIP Road, Nagla Road, and Highland Marg sit the high-rise hubs - Maya Garden, Sushma Square, Savitry Towers, Motia Royal City - and a move into any of them means service lift reservations, RWA move-in time approvals, and basement truck clearance checks before anything gets loaded. Older established pockets like Baltana, Dhakoli, and Gazipur, meanwhile, feature narrow residential lanes that can't take a full-sized container truck, so compact shuttle tempos handle the doorstep pickups instead. Heavy traffic bottlenecks around the Zirakpur Flyover and the main highway junctions add strict timing constraints to every move. At <b><a href='https://allcitymoverspackers.com'>All City Movers and Packers</a></b>, our team manages local household shifting starting from <strong>₹3,500</strong>, corporate relocations, and vehicle transportation designed specifically around Zirakpur's traffic patterns and building regulations. Our operational setup covers Zirakpur and the surrounding Tricity region. From local home moves to intercity shifting across India, we at <strong>All City Movers and Packers</strong> provide structured home shifting, office relocation, secure warehousing, and vehicle transit services.</p>
 
    <p>Moving a walk-up home in Baltana requires a completely different approach than shifting a high-rise apartment on VIP Road, and relocating a commercial setup near the PR7 Airport Road junction comes with its own scheduling demands. RWA permissions, service lift bookings, tight lane transfers, and highway toll clearances all influence the move timeline. Multi-layer protective packing, dedicated move supervisors, real-time tracking, and routes planned around Zirakpur's peak congestion hours - that's what keeps every project on schedule. <b>Call or WhatsApp +91 9876392657 for a free quote</b>. </p>
    ";
@@ -824,12 +824,12 @@ Quick Response We ensure quick response to your call. One’s you sent your need
 <li>Pre-move surveys - virtual or on-site - come free, with flexible rescheduling if plans change.</li>
 <li>Local coverage spans VIP Road, PR7 Expressway, Baltana, Dhakoli, Peer Muchalla, Nagla Road, Highland Marg, Lohgarh, Patiala Road, Gazipur, Kishanpura, Green City, and Silver City.</li></ol>
 
-   <h3>About All City Movers and Packers </h3>
-  <p>We're <b>All City Movers and Packers</b>, and we've <strong>completed more than 5,000 successful relocations</strong> to date - delivering safe, transparent, and worry-free service <b>across Zirakpur, the Tricity area (Chandigarh, Panchkula, Mohali), and nationwide</b>. A trained field crew works alongside an experienced management team, built on the principle of complete customer accountability, to keep assets safe on every project. We operate as a formally registered relocation provider, offering <em>GST-compliant billing</me>, official <em>Lorry Receipts (LR)</em>, and full transit insurance coverage for household goods, commercial assets, and personal vehicles. Our fleet of enclosed container trucks carries real-time tracking and is operated by background-verified drivers. Every move relies on multi-layer protective packaging - heavy-duty bubble wrap, corrugated sheets, stretch wrap film, corner guards, and custom wooden crating - backed by proper lifting equipment to protect your belongings throughout the journey. Professional execution, clear billing, formal accountability, and comprehensive transit coverage are what give families and businesses complete peace of mind, whether it's a local Tricity move or a long-distance relocation across India.
-
-    </p>
+   
 ";
-   $htmlcontent2 = "
+   $htmlcontent2 = "<h3>About All City Movers and Packers </h3>
+  <p>We're <b>All City Movers and Packers</b>, and we've <strong>completed more than 5,000 successful relocations</strong> to date - delivering safe, transparent, and worry-free service <b>across Zirakpur, the Tricity area (Chandigarh, Panchkula, Mohali), and nationwide</b>. A trained field crew works alongside an experienced management team, built on the principle of complete customer accountability, to keep assets safe on every project. We operate as a formally registered relocation provider, offering <em>GST-compliant billing</me>, official <em>Lorry Receipts (LR)</em>, and full transit insurance coverage for household goods, commercial assets, and personal vehicles. Our fleet of enclosed container trucks carries real-time tracking and is operated by background-verified drivers. Every move relies on multi-layer protective packaging - heavy-duty bubble wrap, corrugated sheets, stretch wrap film, corner guards, and custom wooden crating - backed by proper lifting equipment to protect your belongings throughout the journey. Professional execution, clear billing, formal accountability, and comprehensive transit coverage are what give families and businesses complete peace of mind, whether it's a local Tricity move or a long-distance relocation across India.</p>
+  <hr>
+
    <h2>Moving Routes from Zirakpur</h2>
 </h3>Zirakpur to Chandigarh</h3>
 <p>Structured timing keeps these quick local relocations moving, handled via Tribune Chowk or Sector 31/32 access routes.</p>
@@ -844,7 +844,7 @@ Quick Response We ensure quick response to your call. One’s you sent your need
 </h3>Zirakpur to Ludhiana / Jalandhar</h3>
 <p>Full documentation and direct connectivity across Punjab, routed through the Grand Trunk Road network.</p>
 
-
+<hr>
 <h2>Long-Distance Moves from Zirakpur</h2>
 <h3>Zirakpur to Bengaluru</h3>
 <p>Digital inventory logs and milestone updates track these intercity corporate and household relocations end to end.</p>
@@ -877,7 +877,7 @@ $htmlcontent03 = "
    $htmlcontent3 = "
   <h3>A Recent Move</h3>
 <p>Last month, we helped a family move from Peer Muchalla to VIP Road during peak summer heat. Society entry rules at the VIP Road end meant coordinating an approved move-in window in advance, and the tight lanes around Peer Muchalla ruled out a full-sized container truck from the start. Our team brought in a smaller vehicle for the doorstep pickup, transferred the load to the primary truck once clear of the narrow stretch, and had everything unloaded and placed before the evening heat set in fully.</p>
-
+<hr>
 <h3>What Our Customers Say</h3>
 <p>Shifted from VIP Road to Panchkula in September. The team packed everything carefully and completed the move in 6 hours. Very professional service. - Rakesh Verma, IT Professional</p>
 <p>Office relocation near Baltana. They handled computers and furniture carefully. Work resumed the next day without delay. - Amit Sharma, Bank Manager</p>
