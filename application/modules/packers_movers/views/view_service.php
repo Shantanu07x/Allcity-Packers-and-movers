@@ -237,9 +237,11 @@ foreach ($cities as $ct) {
     <div class="row">
       <div class="col-12">
         <?php echo @$htmlcontent2 ?>
+        <hr>
         <?php if (strtolower($city) == 'zirakpur') {
           include 'localcities.php';
         } ?>
+        <hr>
         <?php echo @$htmlcontent03 ?>
       </div>
     </div>
