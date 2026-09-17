@@ -40,8 +40,8 @@ class Packers_movers extends MX_Controller
         // edit by Mr.Rajput 14/5/26
         $seo = array(
             "Zirakpur" => array(
-                'title' => "Zirakpur Packers and Movers | 4.8★ Rated, 5000+ Moves",
-                "desc" => "Zirakpur Packers and Movers — 4.8★ from 5000+ reviews, GST billed, ISO certified. Moves from ₹3,500, VIP Road to Baltana, Tricity-wide. Call 9876392657."
+                'title' => "Packers and Movers Zirakpur | VIP Road to Tricity, 4.8★",
+                "desc" => "Packers & movers in Zirakpur who plan around VIP Road traffic and Baltana's narrow lanes. 5,000+ moves, 4.8★ rated, GST billed, ISO certified. From ₹3,500. +91-9876392657."
             ),
             "Mohali" => array(
                 'title' => "All City Packers And Movers in $city | Affordable Charges 9876392657",
