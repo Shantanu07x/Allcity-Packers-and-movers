@@ -30,11 +30,18 @@ foreach ($cities as $ct) {
           <h1 class="fw-bold display-6">
             Packers and Movers in <?= $city ?>
           </h1>
-          <p class="mt-2">
-            Looking for reliable Packers & movers in <?= $city ?> <?= $state ?>? All City Packers offers safe,
-            affordable, and professional packing Moving services in <?= $city ?> with Moving Expert Call Now
-            for Better Shifting at cheapest price
-          </p>
+
+          <?php if (strtolower($city) === 'zirakpur'): ?>
+    <p class="mt-2">
+        Packers and Movers in <?= $city ?> who plan around VIP Road traffic and Baltana's narrow lanes. 5,000+ moves, 4.8 rated, GST billed, ISO certified. From ₹3,500. +91-9876392657.
+    </p>
+<?php else: ?>
+    <p class="mt-2">
+        Looking for reliable Packers & movers in <?= $city ?> <?= $state ?>? All City Packers offers safe,
+        affordable, and professional packing Moving services in <?= $city ?> with Moving Expert Call Now
+        for Better Shifting at cheapest price
+    </p>
+<?php endif; ?>
           <nav aria-label="breadcrumb" class="mt-3">
             <ol class="breadcrumb justify-content-center mb-0" itemscope itemtype="https://schema.org/BreadcrumbList">
               <li class="breadcrumb-item" itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
